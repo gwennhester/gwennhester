@@ -6,7 +6,7 @@ Senior Full Stack Developer
 
 I build stuff
 
-* 🌍  🇨🇦 | 🇵🇭
+* 🌍  Waterloo, Ontario 🇨🇦
 * ✉️  You can contact me at [gwenn06gar@gmail.com](mailto:gwenn06gar@gmail.com)
 * 🚀  I'm currently working on [codebrew.co](http://codebrew.co)
 
