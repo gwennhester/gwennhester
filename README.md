@@ -1,6 +1,6 @@
-Hi, I'm Gwenn
+Hello and welcome! I'm Gwenn, a Senior Engineer.
 
-I'm a full-stack engineer interested in thoughtful software architecture, AI, and elegant user experiences. I enjoy exploring product engineering, cloud architecture, and software design patterns to build better products and AI-driven systems.
+I'm interested in thoughtful software architecture, AI, and elegant user experiences. I enjoy exploring product engineering, cloud architecture, and software design patterns to build better products and AI-driven systems.
 
 ## Contact
 
